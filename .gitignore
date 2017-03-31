@@ -1,3 +1,4 @@
 *.db
 *.pkl
 __pycache__/**
+logs/**
