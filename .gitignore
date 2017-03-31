@@ -1,5 +1,7 @@
 *.db
 *.pkl
+*.pyc
+
 __pycache__/**
 logs/**
 config.py
