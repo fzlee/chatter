@@ -1,0 +1,9 @@
+#!/usr/bin/env python
+# coding: utf-8
+"""
+    config.py
+    ~~~~~~~~~~
+
+"""
+robot_name = "阿猫阿狗"
+verbose = False
